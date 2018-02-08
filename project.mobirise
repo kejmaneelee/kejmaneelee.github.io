@@ -17,7 +17,8 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       },
       "additionalSetColors": [
         "#2e2e2e",
@@ -29,7 +30,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 283,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/22-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",

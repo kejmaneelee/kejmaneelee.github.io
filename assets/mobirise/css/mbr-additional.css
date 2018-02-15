@@ -1990,11 +1990,11 @@ h6,
   color: #ffffff;
 }
 #menu-6a .link {
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 #menu-6a .dropdown-item,
 #menu-6a .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.029rem;
 }
 #menu-6a .link:hover,
 #menu-6a .dropdown-item:hover,
@@ -2074,11 +2074,11 @@ h6,
   color: #ffffff;
 }
 #menu-6h .link {
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 #menu-6h .dropdown-item,
 #menu-6h .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.029rem;
 }
 #menu-6h .link:hover,
 #menu-6h .dropdown-item:hover,
